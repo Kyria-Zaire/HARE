@@ -1,0 +1,46 @@
+# HARE Pro v2.0 – .gitignore
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv
+venv
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+hare-frontend/dist/
+.vite/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/
+
+# Misc
+*.md
+!README.md

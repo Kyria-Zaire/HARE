@@ -1,0 +1,4 @@
+name,brand,price,category,image_url,description,tags
+"Shampooing Hydratant Douceur","Marque Salon",24.90,shampoo,https://example.com/img1.jpg,"Shampooing pour cheveux secs à très secs. Formule sans sulfates.","{""hydratant"",""cheveux secs"",""sans sulfates""}"
+"Masque Réparateur Kératine","Marque Salon",32.00,mask,,Réparateur intense à la kératine.,"{""réparation"",""kératine""}"
+"Huile de Ricin Bio 50ml","Marque Salon",18.50,oil,,Huile 100% bio pour pousser et nourrir.,"{""bio"",""pousse"",""naturel""}"
